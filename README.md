@@ -1,2 +1,4 @@
 # Linear-Interpolation
-Linear interpolation using C++
+Goal: Linear interpolation
+Language: C++
+Course: Computer Graphics
